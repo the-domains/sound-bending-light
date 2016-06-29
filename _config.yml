@@ -6,9 +6,9 @@ color:
   saturation: 0.42396006686612964
   rhythmicContrast: 0.8498405807185918
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Sound Bending Light

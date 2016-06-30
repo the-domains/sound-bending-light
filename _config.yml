@@ -1,4 +1,3 @@
-layout_spectrum: 0.481829414376989
 typography_spectrum: 0.5829109866172075
 color:
   brandStrength: 0.8376054579857737
@@ -11,6 +10,9 @@ color:
     - '#BDD4DE'
     - '#EFEFEF'
     - '#FF530D'
+layout_spectrum: 0.481829414376989
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/927dc0ae-7910-402b-8984-c463fd984022.jpg
 name: Sound Bending Light
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/506c975b-09b4-426f-aa57-ae4f0e21bd88.jpg

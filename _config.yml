@@ -6,9 +6,11 @@ color:
   saturation: 0.42396006686612964
   rhythmicContrast: 0.8498405807185918
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
 name: Sound Bending Light
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/506c975b-09b4-426f-aa57-ae4f0e21bd88.jpg

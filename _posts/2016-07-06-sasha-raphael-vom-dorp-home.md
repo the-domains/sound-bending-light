@@ -1,23 +1,25 @@
 ---
-datePublished: '2016-07-06T20:51:03.583Z'
-isBasedOnUrl: 'http://sashavomdorp.com/'
-keywords: []
-related: []
-author: []
-dateModified: '2016-06-30T22:41:13.236Z'
-title: ''
-app_links: []
-publisher:
-  url: 'http://sashavomdorp.com'
-  name: Sashavomdorp
-  favicon: 'http://sashavomdorp.com/favicon.ico'
-  domain: sashavomdorp.com
-description: ''
-starred: false
-sourcePath: _posts/2016-07-06-sasha-raphael-vom-dorp-home.md
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://sashavomdorp.com/'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-07-06T20:53:01.880Z'
+dateModified: '2016-07-06T20:51:12.641Z'
+related: []
+author: []
+title: ''
+app_links: []
+sourcePath: _posts/2016-07-06-sasha-raphael-vom-dorp-home.md
+authors: []
+publisher:
+  name: Sashavomdorp
+  domain: sashavomdorp.com
+  url: 'http://sashavomdorp.com'
+  favicon: 'http://sashavomdorp.com/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 

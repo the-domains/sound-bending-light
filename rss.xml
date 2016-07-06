@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Sound Bending Light]]></title>
         <description><![CDATA[Sound Bending Light]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sound-bending-light/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 20:38:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jul 2016 20:40:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sound-bending-light/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sasha Raphael vom Dorp - Home]]></title>
+            <description><![CDATA[<article><h1>Sasha Raphael vom Dorp - Home</h1><p>Website of artist Sasha vom Dorp. A portfolio of photography and sculpture based on sound bending light.</p></article>]]></description>
+            <link>http://sashavomdorp.com/</link>
+            <guid isPermaLink="false">cd7acb94-1b56-422a-80f4-aeaf47b6091e</guid>
+            <pubDate>Wed, 06 Jul 2016 20:40:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/358da1fe-99f7-4e67-926e-ba3757005c3f.jpg">]]></description>

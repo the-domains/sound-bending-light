@@ -1,18 +1,31 @@
-typography_spectrum: 0.5829109866172075
+name: Sound Bending Light
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/506c975b-09b4-426f-aa57-ae4f0e21bd88.jpg
+layout_spectrum: 0.25145
+typography_spectrum: 0.87282
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/927dc0ae-7910-402b-8984-c463fd984022.jpg
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.8376054579857737
-  lightness: 0.10112941870465875
-  saturation: 0.42396006686612964
-  rhythmicContrast: 0.8498405807185918
   brandColors:
     - '#2B3A42'
     - '#3F5765'
     - '#BDD4DE'
     - '#EFEFEF'
     - '#FF530D'
-layout_spectrum: 0.481829414376989
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/927dc0ae-7910-402b-8984-c463fd984022.jpg
-name: Sound Bending Light
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/506c975b-09b4-426f-aa57-ae4f0e21bd88.jpg
+  brandStrength: 0.8376054579857737
+  lightness: 0.10112941870465875
+  saturation: 0.42396006686612964
+  rhythmicContrast: 0.8498405807185918
+purpose: []
